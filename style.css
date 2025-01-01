@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.discription{
+    /* height: 400px; */
+    /* width: 90%; */
+    /* border: 2px solid black */
+    vertical-align: top;
+    margin: auto;
+    
+    
+}
+.img{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 300px;
+    margin-top: 20px;
+    
+    
+}
+.head{
+    width: 200px;
+    height: 200px;
+    /* background-color: blue; */
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.about{
+    /* border: 2px solid black; */
+    text-align: center;
+    margin-top: 30px;
+}
+
+.para{
+    /* border: 2px solid red; */
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    display: inline-block;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.Skills{
+    text-align: center;
+    margin-top: 30px;
+}
