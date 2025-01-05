@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 100vh;
+    background-color:rgb(200, 138, 138);
+    margin: auto;
+    border: 1px solid black;
+}
+.row1{
+display: flex;
+}
+.row2{
+    display: flex;
+}
+.row3{
+    display: flex;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.Box{
+    width: 500px;
+    margin: auto;
+    margin-top: 70px ;
+}
